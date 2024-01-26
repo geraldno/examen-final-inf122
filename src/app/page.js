@@ -1,6 +1,5 @@
-import Image from "next/image";
 import styles from "./page.module.css";
-import Marowak from "./components/marowak";
+import Marowak from "./components/pokemon/marowak";
 
 export default function Home() {
   return (
